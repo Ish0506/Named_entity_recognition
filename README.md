@@ -10,3 +10,6 @@ Entity lists — Used when the list of entities is known and finite (e.g., a lis
 Regular expressions — Use regular expressions when the entity can be defined by a pattern. For example, credit card numbers are 16 digits beginning with a 4 (Visa), 5 (Mastercard), 6 (Discover), or 15 numbers beginning with a 34 or 37 (American Express). Regular expressions can reliably find these entities.
 
 This is a guided project.
+ The project comprises of 7 tasks. Namely,
+ 1. Importing libraries
+ 2. 
