@@ -20,4 +20,9 @@ This is a guided project.
  7. Train the model
  8. Evaluate the named entity recogition.
  
+ ## DEPENDENCIES
+ 1. Numpy
+ 2. Pandas
+ 3. Tensorflow
+ 4. Matplotlib
  
