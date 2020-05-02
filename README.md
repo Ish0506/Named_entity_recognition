@@ -10,6 +10,14 @@ Entity lists — Used when the list of entities is known and finite (e.g., a lis
 Regular expressions — Use regular expressions when the entity can be defined by a pattern. For example, credit card numbers are 16 digits beginning with a 4 (Visa), 5 (Mastercard), 6 (Discover), or 15 numbers beginning with a 34 or 37 (American Express). Regular expressions can reliably find these entities.
 
 This is a guided project.
- The project comprises of 7 tasks. Namely,
+ The project comprises of 8 tasks. Namely,
  1. Importing libraries
- 2. 
+ 2. Load and explore ner dataset.
+ 3. Retrieve sentences and corresponding tags.
+ 4. Define mapping between sentences and tags.
+ 5. Padding input sentences and creating train/test splits
+ 6. Build and compile Bidirectional LSTM Model.
+ 7. Train the model
+ 8. Evaluate the named entity recogition.
+ 
+ 
