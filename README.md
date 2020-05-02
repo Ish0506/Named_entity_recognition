@@ -12,7 +12,7 @@ Regular expressions — Use regular expressions when the entity can be defined b
 This is a guided project.
  The project comprises of 8 tasks. Namely,
  1. Importing libraries
- 2. Load and explore ner dataset.
+ 2. Load and explore ner_dataset.
  3. Retrieve sentences and corresponding tags.
  4. Define mapping between sentences and tags.
  5. Padding input sentences and creating train/test splits
@@ -25,4 +25,5 @@ This is a guided project.
  2. Pandas
  3. Tensorflow
  4. Matplotlib
+ 5. Keras
  
